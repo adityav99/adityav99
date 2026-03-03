@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityav99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityav99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 <!-- Profile Views -->
